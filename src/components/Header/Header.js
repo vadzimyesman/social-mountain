@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import CompanyIcon from 'react-icons/lib/md/filter-hdr';
 import ProfileIcon from 'react-icons/lib/md/person-outline';
+import Post from '../Post/Post';
 
 import './Header.css';
 
